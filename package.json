@@ -1,14 +1,15 @@
 {
   "name": "african-name-generator",
   "version": "1.0.0",
+  "description": "A tool to generate African names",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["african", "name", "generator"],
+  "author": "Samuel Chimmy Chiedozie",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "canvas": "^3.0.1",
     "express": "^4.21.2",
